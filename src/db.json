@@ -1,0 +1,54 @@
+{
+    "resumedata" : [
+        {
+            "id":"1",
+            "name":"sonu badgujar",
+            "email":"sonu@gmail.com",
+            "phone":"4512366",
+            "address" : "indore palda teen imli",
+            "city":"indore",
+            "pincode":"452001",
+            "github":"hjnnbjjk523678888999",
+            "linkedin":"ghbnasdfghjkl741963",
+            "website":"ffhjjiimmnnbvcxaswerrryuuiiioooo",
+            "objective":"A summary, which is also two or three sentences, usually best fits folks with more experience within their career. This statement summarizes a candidate’s extensive skills and work history. The resume summary could be your ideal option if you want to progress in a career where you’ve already experienced success.",
+            "high":"passed with 87%",
+            "higher" : "passed with 78%",
+            "school":"abc school",       
+            "hschool":"abcsd school",
+            "hyear":"8546",
+            "highyear" : "2023",
+            "college":"bansjsksdd",
+             "graduation" : "bsc computer science from pmb ",
+             "gyear":"2028",
+             "skill" : ["skiil1","skill2","skill3","skill4","skill5","skill6"],
+             "hobby" : ["hobby1","hobby2","hobby3","hobby4","hobby5","hobby6"],
+             "language":["lan1","lan2","lan3","lan4"],
+             "experience" : ["ex1","ex2","ex3","ex4","ex5","ex6","ex7"]
+        },
+        {
+            "id":"2",
+            "name":"prianka badgujar",
+            "email":"sonu@gmail.com",
+            "phone":"4512366",
+            "address" : "indore palda teen imli",
+            "city":"indore",
+            "pincode":"452001",
+            "github":"hjnnbjjk523678888999",
+            "linkedin":"ghbnasdfghjkl741963",
+            "website":"ffhjjiimmnnbvcxaswerrryuuiiioooo",
+            "objective":"A summary, which is also two or three sentences, usually best fits folks with more experience within their career. This statement summarizes a candidate’s extensive skills and work history. The resume summary could be your ideal option if you want to progress in a career where you’ve already experienced success.",
+            "education" : [
+                {
+                    "high-secondary":"passed with 87%",
+                    "higher-secondary" : "passed with 78%",
+                    "graduction" : "bsc computer science from pmb "
+                }
+            ],
+            "skills" : ["skiil1","skill2","skill3","skill4","skill5","skill6"],
+            "hobby" : ["hobby1","hobby2","hobby3","hobby4","hobby5","hobby6"],
+            "language":["lan1","lan2","lan3","lan4"],
+            "experience" : ["ex1","ex2","ex3","ex4","ex5","ex6","ex7"]
+        }
+    ]
+}

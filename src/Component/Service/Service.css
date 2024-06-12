@@ -1,0 +1,132 @@
+
+.container-service-1 {
+    background-image: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/kristinelite52xvg/services-hero-mp887oy2Z1twEqwW.png);
+height: 700px;
+color: white;
+text-align: center;
+  }
+
+  .container-service-1 h4{
+    padding-top: 350px;
+font-size: 35px;
+font-family: math;
+font-weight: 700;
+  }
+
+  .container-service-1 h1{
+    font-size: 80px;
+font-family: math;
+font-weight: 700;
+  }
+
+.navbut{
+
+    text-decoration: none;
+    color:white;
+}
+
+  .face button,.body button,.nail button{
+    width: 151px;
+    height: 41px;
+   border-radius: 48px;
+   background-color: rgb(139, 109, 134);
+color: white;
+margin-left: 95px;
+margin-top: -29px;
+border: aliceblue;
+}
+
+.img-grp1{
+    margin-top: 60px;
+display: flex;
+}
+.body,.nail{
+    margin-left: 40px;
+}
+.container-home-2 h1{
+    font-size: 70px;
+color: rgb(139, 109, 134);
+font-family: emoji;
+font-weight: bold;
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+
+margin-top: 125px;
+}
+
+.para-care{
+    color:rgb(139, 109, 134);
+    width: 550px;
+    text-align: center;
+    font-family: math;
+    font-weight: 200;
+}
+
+
+
+.container-home-3{
+    background-color: rgb(255, 245, 251);
+color: rgb(139, 109, 134);
+display: flex;
+margin-top: 145px;
+height: 488px;
+}
+
+.eco h4,.exp h4{
+    font-family: monospace;
+}
+
+.eco h5,.exp h5{
+    font-family: math;
+}
+
+.eco,.exp{
+    display: flex;
+padding-top: 143px;
+}
+.eco-para,.exp-para{
+    width: 277px;
+font-size: 23px;
+margin-top: -27px;
+}
+
+
+
+
+
+.container-home-6 h1{
+    font-family: math;
+color: rgb(139, 109, 134);
+font-size: 72px;
+font-weight: 700;
+text-align: center;
+margin-top: 100px;
+}
+
+
+.test {
+color: rgb(139, 109, 134);
+font-family: math;
+font-size: 17px;
+display: flex;
+margin-top: 54px;
+}
+.test1,.test2,.test3{
+font-size: larger;
+}
+.test1 h4,.test2 h4,.test3 h4{
+padding-left: 81px;
+}
+.test1 h5,.test2 h5,.test3 h5{
+text-align: center;
+width: 318px;
+font-weight: 700;
+}
+.test img{
+width: 288px;
+height: 240px;
+}
+
+

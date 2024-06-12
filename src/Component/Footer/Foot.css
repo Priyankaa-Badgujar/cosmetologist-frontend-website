@@ -1,0 +1,42 @@
+footer{
+    color: white;
+    background-color: rgb(139, 109, 134);
+    margin-top: 0px;
+    height: 400px;
+    }
+    .container-home-10{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 98px;
+    }
+    .foot1,.foot2,.foot3{
+    font-family: math;
+    }
+    .foot1 h2,.foot3 h2{
+    font-weight: 700;
+    }
+    .foot1 h4,.foot2 h4{
+    font-size: 22px;
+    }
+    
+    #btnfoot{
+        width: 151px;
+        height: 41px;
+    border-radius: 48px;
+    background-color: white;
+    color: rgb(139, 109, 134);
+    border: aliceblue;
+    margin-top: 50px;
+    }
+    
+    .foot3 label{
+        font-size: 23px;
+    }
+    .foot3 input{
+        width: 234px;
+    height: 41px;
+    }
+    .foot2{
+        margin-top: 96px;
+    }
+    

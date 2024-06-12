@@ -1,0 +1,295 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.container-home{
+    width: 100%;
+    margin-top: 0px;
+}
+.container-home-1{
+    background-image: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/kristinelite52xvg/img-YNqqJ5nGG5Fq0llJ.png);
+    width: 100%;
+    height: 976px;
+    display: flow-root;
+}
+
+.navbut{
+    text-decoration: none;
+    color: white;
+}
+
+.head1{
+    margin-top: 314px;
+    text-align: center;
+}
+.name1{
+    color: white;
+    font-size: 215px;
+    font-family: emoji;
+    font-weight: bolder;
+}
+.para1{
+    font-size: 22px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: bolder;
+}
+
+
+
+.face button,.body button,.nail button{
+    width: 151px;
+    height: 41px;
+   border-radius: 48px;
+   background-color: rgb(139, 109, 134);
+color: white;
+margin-left: 95px;
+margin-top: -29px;
+border: aliceblue;
+}
+
+.img-grp1{
+display: flex;
+justify-content: center;
+}
+.body,.nail{
+    margin-left: 40px;
+}
+.container-home-2 h1{
+    font-size: 70px;
+    color: rgb(139, 109, 134);
+    font-family: emoji;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+}
+.container-home-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-home-3{
+    background-color: rgb(255, 245, 251);
+color: rgb(139, 109, 134);
+display: flex;
+margin-top: 145px;
+height: 488px;
+}
+
+.eco h4,.exp h4{
+    font-family: monospace;
+}
+
+.eco h5,.exp h5{
+    font-family: math;
+}
+
+.eco,.exp{
+    display: flex;
+padding-top: 143px;
+padding-left: 190px;
+}
+.eco-para,.exp-para{
+    width: 277px;
+font-size: 23px;
+margin-top: -27px;
+}
+
+.container-home-4{
+    display: flex;
+padding-top: 111px;
+justify-content: space-evenly;
+}
+.about-me h1{
+    font-family: math;
+color: rgb(139, 109, 134);
+font-size: 72px;
+font-weight: 700;
+text-align: center;
+margin-left: 0px;
+}
+
+.about-me h4{
+    color: rgb(139, 109, 134);
+font-size: 25px;
+font-family: monospace;
+text-align: center;
+}
+
+.me-para-1{
+    text-align: center;
+width: 354px;
+color: rgb(139, 109, 134);
+font-family: math;
+font-size: 17px;
+}
+
+.me-para-2{
+    width: 357px;
+text-align: center;
+color: rgb(139, 109, 134);
+font-family: math;
+font-size: 17px;
+}
+
+/* .self-img{
+    margin-left: 194px;
+} */
+
+.about-me{
+    margin-top: 25px;
+/* margin-left: 118px; */
+}
+
+.work-img{
+    /* margin-left: 115px; */
+padding-top: 205px;
+}
+
+.about-me button{
+    width: 151px;
+    height: 41px;
+border-radius: 48px;
+background-color: rgb(139, 109, 134);
+color: white;
+margin-left: 95px;
+border: aliceblue;
+margin-top: 60px;
+}
+
+
+
+.container-home-5{
+    margin-top: 132px;
+background-image: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/kristinelite52xvg/img-YX44zORBx7SeE6g9.png);
+width: 100%;
+height: 566px;
+background-size: cover;
+text-align: center;
+}
+.container-home-5 h4{
+    color: white;
+padding-top: 112px;
+font-family: math;
+font-size: x-large;
+}
+.container-home-5 h1{
+    color: white;
+font-size: 72px;
+font-family: serif;
+font-weight: revert;
+}
+.container-home-5 label{
+    margin-left: -545px;
+color: white;
+font-family: math;
+font-size: 22px;
+}
+.container-home-5 input{
+    width: 600px;
+height: 60px;
+background-color: rgb(245 248 251 / 60%);
+border: unset;
+}
+.container-home-5 button{
+        width: 151px;
+    height: 41px;
+border-radius: 48px;
+background-color: white;
+color: rgb(139, 109, 134);
+border: aliceblue;
+margin-top: 60px;
+}
+
+
+
+.container-home-6 h1{
+    font-family: math;
+color: rgb(139, 109, 134);
+font-size: 72px;
+font-weight: 700;
+text-align: center;
+margin-top: 100px;
+}
+
+
+.test {
+color: rgb(139, 109, 134);
+font-family: math;
+font-size: 17px;
+display: flex;
+margin-top: 54px;
+justify-content: space-around;
+}
+.test1,.test2,.test3{
+
+font-size: larger;
+}
+
+.test1 h5,.test2 h5,.test3 h5{
+text-align: center;
+width: 318px;
+font-weight: 700;
+}
+.test img{
+width: 288px;
+height: 240px;
+}
+
+
+
+.container-home-7{
+    background-image: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/kristinelite52xvg/img-AzGGD9DRz3SonDqP.png);
+    height: 450px;
+    margin-top: 90px;
+    }
+    
+    .container-home-7 h4{
+    color: white;
+    padding-top: 112px;
+    font-family: math;
+    font-size: x-large;
+    }
+    
+    .container-home-7 h1{
+        color: white;
+    font-size: 72px;
+    font-family: serif;
+    font-weight: revert;
+    }
+    
+    .container-home-7 button{
+        width: 151px;
+    height: 41px;
+    border-radius: 48px;
+    background-color: white;
+    color: rgb(139, 109, 134);
+    border: aliceblue;
+    margin-top: 50px;
+    }
+    .container-home-7{
+        text-align: center;
+    }
+    
+    
+    .botel{
+        display: flex;
+    padding: 98px 98px;
+    justify-content: space-around;
+    }
+    
+    .botel-1,.botel-2,.botel-3{
+        text-align: center;
+    color: rgb(139, 109, 134);
+    }
+    

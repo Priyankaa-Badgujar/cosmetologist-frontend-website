@@ -1,0 +1,199 @@
+.container-about-1 {
+    background-image: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/kristinelite52xvg/about-hero-m7VVkj9VjwIKMzv7.png);
+height: 700px;
+color: white;
+text-align: center;
+  }
+
+  .container-about-1 h4{
+    padding-top: 350px;
+font-size: 35px;
+font-family: math;
+font-weight: 700;
+  }
+
+  .container-about-1 h1{
+    font-size: 80px;
+font-family: math;
+font-weight: 700;
+  }
+
+
+
+  
+
+
+  .container-about-2{
+        display: flex;
+padding-top: 111px;
+justify-content: space-evenly;
+    }
+    .about-me h1{
+        font-family: math;
+color: rgb(139, 109, 134);
+font-size: 72px;
+font-weight: 700;
+text-align: center;
+    }
+
+    .about-me h4{
+        color: rgb(139, 109, 134);
+font-size: 25px;
+font-family: monospace;
+text-align: center;
+    }
+
+    .me-para-1{
+        text-align: center;
+width: 354px;
+color: rgb(139, 109, 134);
+font-family: math;
+font-size: 17px;
+    }
+
+    .me-para-2{
+        width: 357px;
+text-align: center;
+color: rgb(139, 109, 134);
+font-family: math;
+font-size: 17px;
+    }
+
+    .me-para-3{
+        width: 400px;
+        text-align: center;
+        color:rgb(139, 109, 134);
+        font-family: math;
+        font-size: 17px;
+    }
+
+ 
+
+    .work-img{
+     
+padding-top: 190px;
+    }
+
+
+
+
+    .container-about-3{
+        background-image: url(https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/kristinelite52xvg/img-AoPPN1bPqwFvZ0Lg.png);
+height: 402px;
+color: white;
+margin-top: 100px;
+    }
+    .container-about-3 h1{
+        font-size: 92px;
+font-family: math;
+font-weight: 700;
+width: 396px;
+margin-left: 585px;
+text-align: center;
+padding-top: 104px;
+    }
+
+
+
+
+    .container-about-4{
+        background-color: rgb(255, 245, 251);
+color: rgb(139, 109, 134);
+display: flex;
+height: 488px;
+    }
+
+    
+    .container-about-4-1{
+        background-color: rgb(255, 245, 251);
+color: rgb(139, 109, 134);
+display: flex;
+height: 488px;
+margin-top: -90px;
+    }
+
+    .eco h4,.exp h4{
+        font-family: monospace;
+        font-size: 25px;
+    }
+
+    .eco h5,.exp h5{
+        font-family: math;
+        font-size: 22px;
+    }
+
+    .eco,.exp{
+        display: flex;
+padding-top: 143px;
+
+    }
+    .eco-para,.exp-para{
+        width: 277px;
+    }
+
+
+
+    .container-about-5 h1{
+        font-family: math;
+color: rgb(139, 109, 134);
+font-size: 72px;
+font-weight: 700;
+text-align: center;
+margin-top: 100px;
+}
+
+
+.test {
+    color: rgb(139, 109, 134);
+    font-family: math;
+font-size: 20px;
+display: flex;
+margin-top: 54px;
+}
+.test1,.test2,.test3{
+    margin-left: 0;
+}
+.test1 h4,.test2 h4,.test3 h4{
+ padding: 0;
+}
+.test1 h5,.test2 h5,.test3 h5{
+    text-align: center;
+width: 318px;
+}
+.test img{
+    width: 288px;
+    height: 240px;
+}
+
+
+
+
+.container-about-7 h1{
+    font-size: 72px;
+    color: rgb(139, 109, 134);
+    font-family: math;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 110px;
+}
+
+.about-img{
+    display: flex;
+    justify-content: space-around;
+}
+.container-about-7{
+    background-color: rgb(255, 245, 251);
+    height: 755px;
+    margin-top: 20px;
+}
+.container-about-7 button{
+    padding: 19px 50px;
+           border-radius: 48px;
+           background-color: rgb(139, 109, 134);
+        color: white;
+        margin-left: 665px;
+    margin-top: 60px;
+    border: aliceblue;
+}
+
+

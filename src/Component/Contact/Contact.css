@@ -1,0 +1,63 @@
+
+.nav-menu li a{
+    color: black;
+}
+
+.fname{
+    width: 600px;
+    height: 48px;
+    font-weight: 100;
+    background-color: #F1F1F1;
+}
+.lname{
+    width: 600px;
+    height: 48px;
+    font-weight: 100;
+    background-color: #F1F1F1;
+}
+.eadd{
+    width: 600px;
+    height: 48px;
+    font-weight: 100;
+    background-color: #F1F1F1;
+}
+.msg{
+    width: 600px;
+    height: 100px;
+    font-weight: 100;
+    background-color: #F1F1F1;
+}
+
+.submit{
+    
+    border-radius: 22px;
+    background-color: rgb(139, 109, 134);
+    color: white;
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: 700;
+    width: 151px;
+    height: 45px;
+    border: unset;
+    margin-left: 213px;
+}
+
+.contact{
+    font-size: 72px;
+    color: rgb(139, 109, 134);
+    font-family: emoji;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 200px;
+}
+.page{
+    height: 850px;
+}
+
+form{
+    margin-left: 480px;
+}
+
+form input{
+    border: unset;
+}
